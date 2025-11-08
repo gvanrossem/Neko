@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neko</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+    <img src="images/logo.png" alt="Neko Logo" class="logo">
+  </header>
+
+  <!-- DESCRIPTION -->
+  <section class="description">
+    <p>
+      We are a young team of passionate engineers bringing the future of cat feeding systems! 
+      At Neko we are revolutionizing pet care by bringing automation and convenience from your phone to your cat's plate. 
+      Stay tuned!
+    </p>
+  </section>
+
+  <!-- FOUNDERS -->
+  <section class="founders">
+    <div class="founder">
+      <img src="images/Guillaume.jpg" alt="Founder 1">
+      <h3>Name Surname</h3>
+      <p>Position</p>
+      <p>Email: <a href="mailto:someone@example.com">someone@example.com</a></p>
+      <p>Phone: +41 78340 12 70</p>
+      <p><a href="#" target="_blank">LinkedIn</a></p>
+    </div>
+    <div class="founder">
+      <img src="images/Alessandro.jpg" alt="Founder 2">
+      <h3>Name Surname</h3>
+      <p>Position</p>
+      <p>Email: <a href="mailto:someone@example.com">someone@example.com</a></p>
+      <p>Phone: +00 000 000 000</p>
+      <p><a href="#" target="_blank">LinkedIn</a></p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>© 2025 Neko — All rights reserved.</p>
+    <div class="funded">
+      <span>Funded by:</span>
+      <img src="images/SPH.png" alt="Funding Logo">
+    </div>
+  </footer>
+
+</body>
+</html>
